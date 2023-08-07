@@ -1,0 +1,1 @@
+(Gross Salary/Month Days) * Working Days

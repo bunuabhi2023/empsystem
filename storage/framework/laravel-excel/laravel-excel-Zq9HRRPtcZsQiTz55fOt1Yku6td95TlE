@@ -1,0 +1,2 @@
+First Name,Last Name,Staff Id,Username,Email,Password,Joining Date,Gender,Date of Birth,Contact No,Address,city,Zip,Country,Attendance Type,Company Name,Department Name,Designation Name,Shift Name,Role Name 
+test,user,1111111,1971,test007@gmail.com,test007,25-04-2021,MALE,25-05-2020,4536267,dummy address,dummy city,6767,Bangladesh,general,HR1,CSE,Android Developer,Morning Shift,employee
